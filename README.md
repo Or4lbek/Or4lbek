@@ -4,7 +4,7 @@
 
 🔭 I’m currently working in Suleyman Demirel University as Teaching assistant
 
-🌱 I’m currently learning Android app development
+🌱 I’m Android app developer in ShinhanFinance company
 
 📫 How to reach me: https://t.me/joolaushy
 
